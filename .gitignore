@@ -1,4 +1,5 @@
 /mali/
 /gralloc/
 /hwcomposer/
+/audio/
 !.gitignore
