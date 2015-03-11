@@ -3,4 +3,5 @@
 /hwcomposer/
 /audio/
 /libstagefrighthw/
+/wifi/
 !.gitignore
